@@ -1,5 +1,5 @@
 package models;
 
-public class Status {
-
+public enum Status {
+    Pending, Denied, Approved
 }

@@ -1,5 +1,5 @@
 package models;
 
-public class Type {
-
+public enum Type {
+    Lodging, Travel, Food, Other
 }
